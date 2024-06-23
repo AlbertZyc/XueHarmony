@@ -13,16 +13,15 @@
 </p>
 
 
-## View online
+## 在线查看
 
 🌏 [Xue-harmony](http://47.116.78.14/)
 
 
-## Quick start
+## 快速开始
+一些可以帮助你快速启动本项目的操作：
 
-Several quick start options are available:
-
-- Clone the repo: `https://github.com/AlbertZyc/XueHarmony.git`
-- Install docsify with [docsify](https://docsify.js.org/#/): `npm install docsify-cli -g (or yarn global add docsify-cli)`
-- Development run `docsify serve`
-- Open `http://localhost:3000` in your browser.
+- clone 这个仓库: `https://github.com/AlbertZyc/XueHarmony.git`
+- 用yarn 或者 npm全局安装 [docsify-cli](https://docsify.js.org/#/): `npm install docsify-cli -g (or yarn global add docsify-cli)`
+- 在终端运行命令 `docsify serve`
+- 打开 `http://localhost:3000` 在你的浏览器
